@@ -4,7 +4,7 @@ Tämä on React-projekti, joka tarjoaa käyttäjille mahdollisuuden selata erila
 
 ## Toiminnallisuudet
 
-- Käyttäjät voivat selata musiikkilevyjä ja lukea niiden arvosteluja.
-- Käyttäjät voivat lisätä omia arvostelujaan musiikkilevyistä.
+- Käyttäjät voivat selata ja hakea arvosteluja.
+- Käyttäjät voivat lisätä omia arvosteluja.
 - Käyttäjät voivat poistaa arvosteluja.
 - Käyttäjät voivat muokata arvosteluja.
