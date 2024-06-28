@@ -1,6 +1,7 @@
 # Levyarvostelu-sivusto
 
-Tämä on React-projekti, joka tarjoaa käyttäjille mahdollisuuden selata erilaisia musiikkilevyjä, lukea niiden arvosteluja ja antaa omia arvosteluja.
+Verkkosivusto on toteutettu React-sovelluskehyksen avulla. Käyttöliittymä on puolestaan toteutettu Material UI:n avulla ja backendin luomisessa on käytetty Nodea
+ja Expressiä.
 
 ## Toiminnallisuudet
 
