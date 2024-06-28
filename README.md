@@ -1,9 +1,9 @@
 # Levyarvostelu-sivusto
 
-Verkkosivusto on toteutettu React-sovelluskehyksen avulla. Käyttöliittymä on puolestaan toteutettu Material UI:n avulla ja backendin luomisessa on käytetty Nodea
-ja Expressiä.
+Verkkosivusto on toteutettu React-sovelluskehyksen avulla. Käyttöliittymä on puolestaan toteutettu Material UI:n avulla. Sovelluksen navigaatio on
+tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. Sovelluksen tietokanta on SQLite-muotoa.
 
-## Toiminnallisuudet
+## Sovelluksen toiminnallisuudet
 
 - Käyttäjät voivat selata ja hakea arvosteluja.
 - Käyttäjät voivat lisätä omia arvosteluja.
