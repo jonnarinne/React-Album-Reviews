@@ -1,7 +1,6 @@
 # Album review site
 
-Verkkosivusto on toteutettu React-sovelluskehyksen avulla. Käyttöliittymä on puolestaan toteutettu Material UI:n avulla. Sovelluksen navigaatio on
-tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. Sovelluksen tietokanta on SQLite-muotoa. Tekstieditorina on käytetty Visual Studio Codea.
+This project is a web application for album reviews, where users can list reviews, search for reviews based on various criteria (artist, album name, release year, genre), add their own reviews, edit reviews, and delete reviews. The website is built using the React framework.
 
 ## Features
 
@@ -29,6 +28,8 @@ tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. S
   - Visual Studio Code
 
 ## Installation
+
+## Screenshots
 
 
 
