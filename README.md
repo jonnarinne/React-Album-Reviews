@@ -32,10 +32,15 @@ This project is a web application for album reviews, where users can list review
 
 ![etusivu2](https://github.com/user-attachments/assets/2b240957-1fa9-431e-b230-84e9fd49657e)
 <p></p>
+
 ![listaus2](https://github.com/user-attachments/assets/3d8535ed-e57a-46c1-b109-2254867bf4dd)
+
 <p></p>
+
 ![haku2](https://github.com/user-attachments/assets/36f0edc9-e702-4999-8638-9218373d2427)
+
 <p></p>
+
 ![teearvostelu](https://github.com/user-attachments/assets/99867be8-2d49-4426-b6f0-cc8d7c20f793)
 
 
