@@ -13,19 +13,15 @@ tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. S
 
 ## Technologies used
 
--Frontend
-  -React
-  -Material UI (for UI components)
-  -React Router (for navigation)
-
--Backend
-  -Node.js
-  -Express.js
-
--Database
-  -SQLite
-
--Development tools
-  -Visual Studio Code
-
+Frontend:
+React
+Material UI (for UI components)
+React Router (for navigation)
+Backend:
+Node.js
+Express.js
+Database:
+SQLite
+Development Tools:
+Visual Studio Code
 
