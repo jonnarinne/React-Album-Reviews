@@ -20,24 +20,5 @@ tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. S
 
 ## Installation
 
-Clone the repository:
 
-bash
-Kopioi koodi
-git clone https://github.com/yourusername/album-review-site.git
-cd album-review-site
-Install frontend dependencies:
-
-bash
-Kopioi koodi
-cd frontend
-npm install
-Install backend dependencies:
-
-bash
-Kopioi koodi
-cd ../backend
-npm install
-Setup the database:
-Ensure SQLite is properly configured and your database file is set up.
 
