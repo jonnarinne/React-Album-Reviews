@@ -14,6 +14,7 @@ tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. S
 ## Technologies used
 
 - Frontend
+  -React
 - Backend
 - Database
 - Development tools
