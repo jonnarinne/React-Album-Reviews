@@ -17,11 +17,14 @@ tehty React Routerilla. Backendin luomisessa on käytetty Nodea ja Expressiä. S
   - React
   - Material UI (for UI components)
   - React Router (for navigation)
+    
 - Backend
   - Node.js
   - Express.js
+    
 - Database
-  -SQLite
+  - SQLite
+    
 - Development tools
   - Visual Studio Code
 
